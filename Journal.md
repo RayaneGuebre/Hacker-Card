@@ -1,5 +1,5 @@
 ## 17/07
-TOday i've only done the schematic of the PCB, tomorrow i'm gonna start working on the actual PCB
+Today i've only done the schematic of the PCB, tomorrow i'm gonna start working on the actual PCB
 Designing: 30m
 ##18/07 
 today i've started designing the actual business card but i'm not really sure how to make it unique, I'm not a designer / artist :')
