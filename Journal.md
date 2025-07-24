@@ -1,3 +1,5 @@
+
+# Total Time: 5h30min
 ## 17/07
 Today I've only done the schematic of the PCB, tomorrow I'm gonna start working on the actual PCB
 Designing: 30m
@@ -12,3 +14,12 @@ Soooo, I've finished the design for the back of the card, and I've had a great i
 <img width="765" height="443" alt="Screenshot 2025-07-22 23 38 43" src="https://github.com/user-attachments/assets/331ee16f-728d-48f0-af1b-2f826e4b6fa5" />
 <img width="661" height="387" alt="Screenshot 2025-07-22 23 38 16" src="https://github.com/user-attachments/assets/efdcf9b4-3347-43ff-8808-22cb40b0e19a" />
 <img width="658" height="433" alt="Screenshot 2025-07-22 22 05 02" src="https://github.com/user-attachments/assets/8c808a94-75b3-4c83-acfe-1265017c7660" />
+
+Designing: 3h
+
+
+## 24 / 07
+I finally came up with a good design, now it's ready to be shipped to Highway
+Designing: 2h
+<img width="750" height="509" alt="Screenshot 2025-07-24 13 50 23" src="https://github.com/user-attachments/assets/dd71d289-3aff-4822-9bb2-254c3c00da60" />
+<img width="750" height="509" alt="Screenshot 2025-07-24 13 50 06" src="https://github.com/user-attachments/assets/f70cb66b-f437-4912-8a00-ab1ccbd94bae" />
